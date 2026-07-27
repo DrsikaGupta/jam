@@ -1,0 +1,26 @@
+# Rust
+/target
+
+# Cargo
+Cargo.lock
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Cache
+cache/
+temp/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
