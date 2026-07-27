@@ -318,16 +318,6 @@ JAM is both a music player and my journey learning Rust.
 - yt-dlp
 - Image
 
----
-
-# Contributing
-
-This project is still evolving, and suggestions, bug reports, and pull requests are welcome.
-
-If you find a bug or have an idea for a feature, feel free to open an issue.
-
----
-
 # License
 
 MIT License
